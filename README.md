@@ -2,7 +2,7 @@
 
 Lean, Optimizable, Leverageable LInear Programming OPTimizer.
 
-Lollipopt is a shell repository that may one day become an open-contribution Mixed-Integer programming solver.
+Lollipopt is a shell repository that may one day become an open-contribution Mixed-Integer programming solver. The plan is that we will accept any contribution from anyone that improves the performance or simplify the code without a significant performance hit. The community chat is working in progress.
 
 We realize that the best way to solve the problem might be to combine the problem-specific insight, the meaning of the problem, with the insights gained from the LP formulation of the problem. Therefore, users are encouraged to fork the repository if they want to add problem-specific optimizations to the task. We intend to make it easy to do so.
 
