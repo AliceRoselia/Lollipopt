@@ -9,6 +9,9 @@ We realize that the best way to solve the problem might be to combine the proble
 The programming language of choice is Julia, home to one of the best optimization ecosystem, JuMP.jl
 
 Stage 1: Kickstart the project: Get at least a minimal solver as well as a test set and the evaluation program ready.
+
 Stage 2: Optimization: We will optimize the hell out of
 
 Contributions are welcome. I will gladly review pull requests and even test your code.
+
+If you want to kickstart the project, welcome. Otherwise, this repository shall remain a shell repository.
